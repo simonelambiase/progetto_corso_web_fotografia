@@ -2,6 +2,18 @@
     float: right;
 }
 
+#prima-colonna span a {
+    color: inherit;
+}
+
+#seconda-colonna span a {
+    color: inherit;
+}
+
+#secondo-piano span a {
+    color: inherit;
+}
+
 .navbar-nav ul li {
     float: left;
 }
